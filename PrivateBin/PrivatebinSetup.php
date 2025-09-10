@@ -21,7 +21,7 @@ class PrivatebinSetup extends BaseSetup {
         ],
         "database" => false,
         "resources" => [
-            "typecho" => ["src" => "https://github.com/PrivateBin/PrivateBin/archive/refs/tags/2.0.0.zip"],
+            "privatebin" => ["src" => "https://github.com/lhl77/my-hestia-webapp/releases/download/PrivateBin-2.0.0/privatebin.zip"],
         ],
         "server" => [
             "apache" => [
