@@ -11,7 +11,7 @@ class PrivatebinSetup extends BaseSetup {
         "group" => "util",
         "enabled" => true,
         "version" => "2.0.0",
-        "thumbnail" => "privatebin-thumb.png",
+        "thumbnail" => "privatebin_thumb.png",
     ];
 
     protected $appname = "privatebin";
